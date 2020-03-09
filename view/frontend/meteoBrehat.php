@@ -1,0 +1,1 @@
+<script charset='UTF-8' src='http://www.meteofrance.com/mf3-rpc-portlet/rest/vignettepartenaire/220160/type/VILLE_FRANCE/size/PORTRAIT_VIGNETTE' type='text/javascript'></script>

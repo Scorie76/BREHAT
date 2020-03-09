@@ -1,0 +1,8 @@
+Voici le login et ler mot de passe pour se connecter à la partie administration :
+
+
+Login : pseudo
+
+Mot de passe : pseudo
+
+

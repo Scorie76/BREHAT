@@ -1,0 +1,1562 @@
+
+/* DÃ©finition des polices personnalisÃ©es */
+
+
+@font-face
+{
+    font-family:'cuyabra bold oblique';
+    src: url('../fonts/cuyabra bold oblique.otf') format("opentype");
+    
+}
+@font-face
+{
+    font-family:'cuyabra bold';
+    src: url('../fonts/cuyabra bold.otf') format("opentype");
+}
+@font-face
+{
+    font-family:'cuyabra oblique';
+    src: url('../fonts/cuyabra oblique.otf') format("opentype");
+}
+
+@font-face
+{
+    font-family:'cuyabra';
+    src: url('../fonts/cuyabra.otf') format('opentype');
+}
+
+
+
+h1 {
+    font-size: 32px! important;
+    color: #ffffff! important;
+    font-family: cuyabra bold ! important ;
+
+}
+
+h2 {
+    
+    color: #ffffff! important;
+    font-family: cuyabra ! important ;
+}
+
+h3 {
+    
+   
+    font-family: cuyabra ! important ;
+}
+
+p {
+    
+    color: #9c9c9c! important;
+    font-family: cuyabra  ! important ;
+}
+
+a {
+	 color: #ffffff ! important;
+	 text-decoration: none ! important;
+}
+
+a:hover{
+
+	color: #000000 ! important;
+
+
+}
+
+
+
+body {
+
+	background-color: #e5ebed! important;
+	font-family: cuyabra bold ! important;
+}
+
+footer{
+	margin-top: 100px;
+	height: 75px;
+	background-color: #235472;
+}
+
+#reseau1, #reseau2, #reseau3{
+	padding-top: 25px;
+}
+
+#reseau1 p{
+	font-size: 12px;
+}
+
+
+.row {
+
+	background-color: #e5ebed;
+}
+
+
+
+
+
+#blocImageHeader {
+	width: 100%;
+	height: auto;
+	position: relative;
+
+	
+}
+
+#imageHeader{
+	position: absolute;
+	height: auto;
+	padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+#titreSite {
+	position: absolute;
+	height: 500px;
+	text-align: center;
+	padding-top: 150px;
+}
+
+#titreSite2 {
+	
+	text-align: center;
+	height: 250px;
+
+}
+
+#titreSite2 h1 {
+	
+	color: #8c7d60 !important;
+	
+}
+
+
+
+#blocImageHeader img{
+
+	width: 100%;
+}
+
+.navbar-default {
+
+    background-color: #235472! important;
+    border-color: #e7e7e7;
+
+}
+
+.navbar-collapse {
+    background-color: rgba(0, 0, 255, 0)! important;
+    border-color: rgba(0, 0, 255, 0)! important; 
+    margin-right: 20px ! important;
+
+   
+
+}
+
+.navbar-nav {
+     float: none !important; 
+    
+}
+
+.navbar-nav>li>a {
+
+	border : 1px solid #235472! important;
+	border-radius: 10px ! important;
+	margin-bottom: 15px !important;
+	margin-top: 15px !important;
+
+}
+
+.navbar-nav>li>a:hover {
+
+	
+	border-radius: 10px ! important;
+	margin-bottom: 15px !important;
+	margin-top: 15px !important;
+	background-image: linear-gradient(to left bottom, #235472, #2d5d7b, #376785, #40708e, #4a7a98, #4a7a98, #4a7a98, #4a7a98, #40708e, #376785, #2d5d7b, #235472) ! important;
+
+}
+
+.col-lg-12{
+
+	padding-right: 0px! important;
+	padding-left : 0px! important;
+}
+
+.navbar-default .navbar-nav li a {
+    color: #ffffff ! important;
+
+}
+
+ .navbar-brand {
+    color: #ffffff ! important;
+
+}
+
+.nav{
+	float: right ! important;
+	
+}
+
+.icon-bar{
+
+	background-color: #ffffff ! important;
+}
+
+#barremenu{
+	background-color: #ffffff;
+	height : 40px; 
+	margin-top: 10px;
+	width: 1px;
+}
+
+
+/*page d'accueil*/
+
+#bloc1{
+	background-color: #5787a5;
+	
+	line-height: 1.8;
+}
+
+#bloc2{
+	background-color: #5787a5;
+	height : auto;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+	
+
+}
+
+#bloc3{
+	background-color: #8C7D60;
+	height : auto;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+	
+}
+
+#bloc4{
+	background-color: #ffffff;
+	height : auto;
+	padding-top:  50px;
+	padding-left: 30px;
+	padding-right: 30px; 
+	
+	
+}
+
+#bloc4 p {
+	font-size: 16px ! important; 
+	
+	
+}
+
+#bloc2 img{
+
+	width: 100%;
+}
+
+#bloc3 img{
+
+	width: 100%;
+}
+
+#bloc6 {
+
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;	
+	
+}
+
+#bloc6 img{
+
+	width: 100%;
+	
+}
+
+#bloc7 {
+
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;	
+	
+}
+
+#bloc7 img{
+
+	width: 100%;
+	
+}
+
+#bloc12 {
+
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;	
+	
+}
+
+#bloc12 img{
+
+	width: 100%;
+	
+}
+
+#bloc8 {
+	text-align: right;
+}
+
+#bloc13 {
+	text-align: right;
+}
+
+
+#bloc11 {
+
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;	
+	
+}
+
+#bloc11 img{
+
+	width: 100%;
+	
+}
+
+#section1 {
+	background-color: #5787a5;
+	height : auto;
+	margin-top : 100px;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+
+}
+
+#section2 {
+	background-color: #ffffff;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+	height : auto;
+
+}
+
+#section3 {
+	background-color: #8c7d60;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+	height : auto;
+	margin-bottom: 100px;
+	margin-top: 100px;
+
+}
+
+#section4 {
+	background-color: #a6c5d8;
+    padding-left: 0px ! important;
+    padding-right: 0px ! important;
+	height : auto;
+
+}
+
+#section5 {
+	background-color: #add4d8;
+    padding-left: 0px ! important;
+    padding-right: 0px ! important;
+	height : auto;
+
+}
+
+#section6 {
+	background-color: #8c7d60;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+	height : auto;
+	margin-bottom: 100px;
+	margin-top: 100px;
+
+}
+/*page d'administration*/
+
+#sectiona {
+	height : auto;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+	margin-top: 100px;
+}
+
+#bloca{
+	background-color: #5787a5;
+	height : auto;
+	padding: 75px;
+	text-align: center;
+
+}
+
+
+#sectionb {
+	
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+	height : auto;
+
+}
+
+#blocd{
+	background-color: #8c7d60;
+	height : auto;
+	padding: 75px;	
+	text-align: center;
+}
+
+
+
+#sectionc {
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+	height : auto;
+	
+	
+
+}
+
+#bloce{
+	background-color: #235490;
+	height : auto;
+	padding: 75px;
+	text-align: center;	
+}
+
+
+/*page MétéoS*/
+
+#rowMeteo1, #rowMeteo2,#rowMeteo3  {
+	background-color: #e5ebed;
+
+}
+
+
+#citation{
+	padding: 20px;
+	background-color: #5787a5;
+}
+
+#citation p {
+
+	color: #ffffff ! important;
+	font-size: 16px;
+}
+
+#signature{
+	text-align: right;
+
+}
+
+#signature p {
+	color: #235472 ! important;
+	font-weight: bold;
+}
+
+#titreMeteo {
+	background-color: #002554;
+    height: auto;
+   	padding-right: 0px ! important;
+    padding-left: 0px ! important;	
+    text-indent: 20px;
+    padding-bottom: 50px;
+}
+
+#titreMeteo2 {
+	background-color: #002554;
+    height: auto;
+   	padding-right: 0px ! important;
+    padding-left: 0px ! important;	
+    text-indent: 20px;
+    padding-bottom: 50px;
+}
+
+#sectionmaree {
+	background-color: #002554;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+	height : auto;
+
+
+}
+
+#sectionmeteo {
+	background-color: #002554;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+	height : auto;
+
+}
+
+#blocphotomaree {
+	padding-bottom: 10px;
+	padding-top: 10px;
+   
+	
+}
+
+#blocphotomaree img{
+
+	width: 100%;
+	
+}
+
+#blocphotometeo {
+	padding-bottom: 10px;
+	padding-top: 10px;
+   
+	
+}
+
+#blocphotometeo img{
+
+	width: 100%;
+	
+}
+
+#maree{
+	padding-top: 5px;
+	text-align: center;
+
+}
+
+#maree2{
+	padding-top: 5px;
+	text-align: center;
+
+}
+
+#sectionmeteo {
+	
+	background-color: #002554;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+	height : auto;
+	margin-bottom: 100px;
+
+}
+
+#blocphotometeo {
+
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;	
+	padding-bottom: 0px ! important;	
+}
+
+#blocphotometeo img{
+
+	width: 100%;
+	
+}
+
+#meteo{
+	padding-top: 5px;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+	
+}
+
+#a{
+	height: auto;
+	background-color: red;
+	position: relative;
+}
+
+#aa{
+	height: auto;
+	
+	position: absolute;
+}
+
+#bb{
+	height: auto;
+	
+	position: absolute;
+}
+
+/*conditions*/
+
+#conditionsJumbo{
+
+	background-image: url("http://localhost/brehat/images/plage2.jpg")! important;
+ 	background-size: cover! important;
+	
+}
+
+#titreConditions{
+    background-color: #5787a5;
+    height: auto;
+   
+    padding-right: 0px ! important;
+    padding-left: 0px ! important;
+    text-indent: 20px;
+    padding-bottom: 50px;
+}
+
+
+/*Tarifs et disponibilité*/
+
+#googleCalendar{
+  position: relative;
+  height: 0;
+  width: 100%;
+  padding-bottom: 50%;
+}
+
+#googleCalendar iframe{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#TitreDispo{
+	background-color: #a6c5d8;
+	
+	line-height: 1.8;
+}
+
+#sectionTitreDispo {
+	background-color: #ffffff;
+	height : auto;
+	margin-top : 100px;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+
+}
+
+#TitreTarifs{
+	background-color: #5787a5;
+	
+	line-height: 1.8;
+}
+
+#TitreDemandeResa{
+	background-color: #235472
+	;
+	
+	line-height: 1.8;
+}
+
+#sectionDemandeResa {
+	background-color: #e5ebed;
+	height : auto;
+	margin-top : 100px;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+
+}
+
+#infoDemande1, #infoDemande2, #infoDemande3, #infoDemande4{
+
+height: 100px;
+text-align: center;
+top:50px;
+
+}
+
+#infoDemande1 i, #infoDemande2 i, #infoDemande3 i, #infoDemande4 i{
+
+height: 100px;
+text-align: center;
+color :#ffffff;
+
+}
+
+#infoDemande1 i:hover, #infoDemande2 i:hover, #infoDemande3 i:hover, #infoDemande4 i:hover{
+
+
+color :#000000;
+
+}
+
+#infoDemande1{
+
+	background-color: #5787a5;
+	padding-top: 25px;
+
+}
+
+#infoDemande1 p {
+
+	color: #ffffff! important;
+}
+
+#infoDemande2{
+	background-color: #a6c5d8;
+	padding-top: 25px;
+}
+
+#infoDemande3{
+	background-color: #add4d8;
+	padding-top: 25px;
+}
+#infoDemande4{
+	background-color: #235472;
+	padding-top: 25px;
+}
+
+
+
+#sectionTitreTarifs {
+	background-color: #e5ebed;
+	height : auto;
+	margin-top : 100px;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+
+}
+
+
+/*page carte et vedette*/
+
+.leaflet-bar a {
+
+	color: #235472! important;
+}
+
+#titreTertreBriand{
+    background-color: #8c7d60;
+    height: auto;
+    padding-right: 0px ! important;
+    padding-left: 0px ! important;
+    text-indent: 20px;
+    padding-bottom: 50px;
+}
+
+#titreVedette{
+    background-color: #5787a5;
+    height: auto;
+    padding-right: 0px ! important;
+    padding-left: 0px ! important;
+    text-indent: 20px;
+    padding-bottom: 50px;
+}
+
+#mapid{
+
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;	
+	padding-bottom: 0px ! important;
+	height: 400px;
+	
+}
+
+
+#sectioncarte {
+	
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+	height : auto;
+	
+	
+}
+
+#texteCarte{
+	background-color: #ffffff;
+	padding : 30px;
+	text-align: justify;
+}
+
+#texteCarte a{
+	color: #000000 ! important;
+}
+
+.jumbotron{
+
+	background-image: url("http://localhost/brehat/images/moulin.jpg")! important;
+  	background-size: cover! important;
+  	min-height: 450px;
+  	padding-top: 100px ! important;
+  	margin-bottom: 100px ! important;
+}
+
+#meteoJumbo{
+
+	background-image: url("http://localhost/brehat/images/plage.jpg")! important;
+ 	background-size: cover! important;
+	
+}
+
+#carteJumbo{
+
+	background-image: url("http://localhost/brehat/images/coteetphare.jpg")! important;
+ 	background-size: cover! important;
+	
+}
+
+#vedetteJumbo{
+
+	background-image: url("http://localhost/brehat/images/vedette.jpg")! important;
+ 	background-size: cover! important;
+	
+}
+
+#tarifsDispoJumbo {
+	background-image: url("http://localhost/brehat/images/port.jpg")! important;
+ 	background-size: cover! important;
+}
+
+#DemandeInfoJumbo {
+	background-image: url("http://localhost/brehat/images/plage3.jpg")! important;
+ 	background-size: cover! important;
+}
+
+#loginJumbo {
+	background-image: url("http://localhost/brehat/images/plage4.jpg")! important;
+ 	background-size: cover! important;
+}
+
+#loginJumbo h1 {
+	color : #235472! important;
+}
+
+
+
+#accueilJumbo{
+
+	background-image: url("http://localhost/brehat/images/accueil3.jpg")! important;
+	background-size: cover! important;
+	
+}
+
+/*Configuration du diaporama*/
+
+.texteDiapo{
+	height : 40px;
+	text-align : center;
+
+}
+
+.texteDiapo h2{
+	color: #235472 ! important;
+
+}
+
+#rowDiapo{
+	height: 200px;
+}
+
+
+#contenantdiapo{
+	width: 100%;
+	background-color: #a6c5d8;
+	height: auto;
+	display: flex;
+	flex-direction: column;
+	align-items: stretch;
+	
+}
+
+
+#diaporama {
+	width: 70%;
+	position: relative;
+	margin:  auto;
+	height: auto;
+	margin-top: 300px;
+
+}
+
+#diaporama img {
+	position: absolute;
+	top: 35px;
+	left: 0;
+	width: 100%;
+	height: auto;
+}
+
+/*Configuration du bloc contrôle du diaporama*/
+
+.prev , .next , .pause, .play{
+	font-family: Arial ;
+	position: relative;
+	width: 45px;
+	height:auto;
+	color : #ffffff;
+	margin-right: 15px;
+	margin-left: 15px;
+	text-align: center;
+	line-height: 30px;
+	cursor:default;
+	justify-content: center;
+	box-shadow: 1px 1px 19px #ffffff;
+
+}
+
+.prev:hover , .next:hover ,.pause:hover, .play:hover {
+	background-color: #8c7d60;
+	color: #ffffff;
+	cursor:default;
+}
+
+#bloccontrole{
+	width :100%;
+	height: 100px;
+	text-align: center;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-bottom: 25px;
+	align-items: center;
+	z-index: 1000;
+	background-color: #5787a5;
+}
+
+.fa-angle-right{
+	padding-top :6px;	
+	text-align:center;
+
+}
+
+.fa-angle-left
+{
+	padding-top : 6px;
+	text-align:center;
+}
+
+.fa-pause
+{
+	padding-top : 14px;
+	text-align:center;
+}
+
+.fa-play
+{
+	padding-top :14px;
+	text-align:center;	
+}
+/*page la maison */
+
+.btn-default{
+
+	background-color: #add4d8! important;
+}
+
+/*Formulaire de contact */
+
+form{
+	background-color: #ffffff;
+}
+
+#TitreContact{
+	background-color: #a6c5d8;
+	
+	line-height: 1.8;
+}
+
+#TitreContact1{
+	background-color: #a6c5d8;
+	
+	line-height: 1.8;
+}
+
+#TitreContact2{
+	background-color: #a6c5d8;
+	
+	line-height: 1.8;
+}
+
+#sectionTitreContact {
+	background-color: #8C7D60;
+	height : auto;
+	
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+
+}
+#formulaire {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#formulaire_contact {
+	padding: 20px;
+}
+.submit{
+
+	background-color: #add4d8! important;
+
+}
+
+/*page avis */
+
+
+#avisJumbo{
+
+	background-image: url("http://localhost/brehat/images/vueFront.jpg")! important;
+ 	background-size: cover! important;
+	
+}
+
+#listeAvis{
+
+	background-color: #ffffff;
+}
+
+#commentaires_avis{
+	background-color: #235472;
+	border-bottom: 1px solid #add4d8 ! important;
+	
+}
+
+#commentaires_avis p{
+	color: #ffffff ! important;
+}
+
+
+/*Informations pratiques */
+
+#encartMeteo{
+	background-color: #ffffff;
+	margin-top: 200px;
+}
+
+#sectionaIP {
+	background-color: #235472;
+	height : auto;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+	
+}
+
+
+
+#sectionbIP {
+	background-color: #5787a5;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+	height : auto;
+}
+
+
+
+
+
+#sectioncIP {
+	background-color: #a6c5d8;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+	height : auto;
+		
+
+}
+
+#sectiondIP {
+	background-color: #add4d8;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+	height : auto;
+		
+
+}
+
+#sectioneIP {
+	background-color: #8C7D60;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+	height : auto;
+		
+
+}
+
+#blocaIP{
+	background-color: #235472;
+	height : auto;
+	text-align: center;
+	
+
+}
+
+#blocbIP{
+	
+	height : auto;
+	text-align: center;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+}
+
+#blocbIP img{
+	
+	width: 100%;
+	
+
+}
+
+#bloccIP{
+	
+	height : auto;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+	text-align: center;
+
+}
+
+#bloccIP img{
+
+	width: 100%;
+}
+
+
+#blocdIP{
+	background-color: #5787a5;
+	height : auto;
+	text-align: center;
+	
+}
+
+
+#bloceIP {
+	background-color: #a6c5d8;
+	height : auto;
+	text-align: center;	
+	
+}
+
+#blocfIP {
+
+	height : auto;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+	text-align: center;	
+}
+
+#blocfIP img {
+
+	width: 100%;	
+}
+
+#blocgIP {
+	
+	height : auto;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+	text-align: center;	
+}
+
+#blocgIP img {
+
+	width: 100%;	
+}
+
+#blochIP {
+	background-color: #add4d8;
+	height : auto;
+	text-align: center;	
+	
+}
+
+#blociIP {
+	background-color: #8C7D60;
+	height : auto;
+	text-align: center;	
+	
+}
+
+#blocjIP {
+
+	height : auto;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+	text-align: center;	
+
+}
+
+#blocjIP img {
+
+	width: 100%;
+}
+
+
+
+
+
+
+/*Page Login */
+
+#sectionTitreLogin {
+	background-color: #235472;
+	height : auto;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+
+}
+
+#TitreLogin{
+	background-color: #235472;
+	padding: 40px;
+	line-height: 1.8;
+}
+
+#sectionLogin {
+	background-color: #ffffff;
+	height : auto;
+	margin-top : 100px;
+	padding-right: 0px ! important;
+    padding-left: 0px ! important;
+
+}
+
+#Login{
+	background-color: #ffffff;
+	line-height: 1.8;
+	padding: 40px;
+}
+
+#Login form {
+	background-color: #ffffff;
+	display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+}
+
+#Login input{
+	width: 30%;
+    min-width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid #235472;
+    text-align: center;
+    margin-top: 5px ! important;
+}
+
+#disconnect{
+	height: 20px;
+	text-align: center;
+}
+
+#barreAdmin{
+	height : 50px;
+	background-color: #a6c5d8;
+}
+
+#barreAdmin h4{
+	padding-top: 15px! important;
+}
+
+
+
+
+/*Gestion des messages */
+
+#formulaire_contact2 {
+	padding: 20px;
+}
+
+#blocTitreGestionMessages{
+	background-color: #235490;
+	height : auto;
+	padding: 75px;
+	text-align: center;	
+	padding-top: 100px;
+	margin-top: 100px;
+}
+
+#BlocTitreMessages{
+
+	background-color: #5787a5;
+	text-align: center;
+	height : auto;
+	padding-top: 50px;
+	margin-bottom: 50px;
+}
+
+#BlocTitreLivredor{
+
+	background-color: #a6c5d8;
+	text-align: center;
+	height : auto;
+	padding-top: 50px;
+	margin-top: 50px;
+}
+
+#contenuMessage{
+	min-height: 300px;
+	background-color: #ffffff;
+	margin-bottom: 50px;
+	text-align: left;
+	margin-top: 50px! important;
+	padding-bottom: 20px;
+}
+
+#contenuMessage a{
+	color : #000000! important;
+}
+
+.comment {
+	border-bottom: solid .5px #add4d8;
+}
+
+#contenuMessage2{
+	min-height: 300px;
+	background-color: #ffffff;
+	margin-bottom: 50px;
+	text-align: left;
+	margin-top: 50px! important;
+	padding-bottom: 20px;
+}
+
+
+.hauteSaison  {
+
+	background-color: #f2dede !important;
+
+}
+
+.basseSaison  {
+
+	background-color: #dff0d8 !important;
+	
+}
+
+.moyenneSaison  {
+
+	background-color: #fcf8e3 !important;
+	
+}
+
+.nonDisponible  {
+
+	background-color: #f5f5f5 !important;
+	
+}
+
+
+#calendar h2 {
+
+	color: #000000 !important;
+}
+
+
+/* BackEnd //////////////////////////*/
+
+#sectiondeconnecter {
+    padding-right: 0px ! important;
+    padding-left: 0px ! important;
+    height: auto;
+    margin-top: 150px;
+}
+
+#blocdeconnecter {
+    background-color: #add4d8;
+    height: auto;
+    padding: 30px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+/*gestion des avis*/
+
+#blocTitreGestionAvis{
+	background-color: #235490;
+	height : auto;
+	padding: 75px;
+	text-align: center;	
+	padding-top: 100px;
+	margin-top: 100px;
+}
+
+#BlocTitreAvis{
+
+	background-color: #5787a5;
+	text-align: center;
+	height : auto;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	
+}
+
+#BlocTitreAvis1{
+
+	background-color: #5787a5;
+	text-align: center;
+	height : auto;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	
+}
+
+#BlocTitreAvis2{
+
+	background-color: #5787a5;
+	text-align: center;
+	height : auto;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	
+}
+
+.onearticle {
+
+	border-bottom: 1px solid #8c7d60 ! important;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+.onearticle a {
+
+	color: #000000! important;
+}
+
+
+
+
+/*gestion réponse message*/
+
+#titreReponseAvis{
+	
+	margin-top: 15px;
+}
+
+#ReponseAvis{
+
+padding-top: 10px;
+margin-bottom: 15px;
+border-top: 1px solid #235472;	
+	
+}
+
+#ReponseAvis p{
+
+color: #5787a5! important;	
+	
+}
+
+#ReponseAvis a{
+
+color: #000000! important;	
+	
+}
+
+
+/*gestion de la disponibilité*/
+
+
+#sectionexplication{
+
+	background-color: #ffffff;
+	padding: 25px;
+
+}
+
+#sectionDispoBackEnd {
+    background-color: #e5ebed;
+    height: auto;
+    
+    padding-right: 0px ! important;
+    padding-left: 0px ! important;
+}
+
+/*Plan du site*/
+
+
+#TitrePlan1, #TitrePlan2,#TitrePlan3 {
+    background-color: #a6c5d8;
+    line-height: 1.8;
+}
+
+#sectionTitrePlan1 {
+    background-color: #a6c5d8;
+    height: auto;
+    margin-top: 100px;
+    padding-right: 0px ! important;
+    padding-left: 0px ! important;
+}
+
+#sectionTitrePlan2 {
+    background-color: #a6c5d8;
+    height: auto;
+    margin-top: 100px;
+    padding-right: 0px ! important;
+    padding-left: 0px ! important;
+}
+
+/* Vérification formulaire*/
+
+#aideCourriel {
+
+
+height: 30px;
+
+
+}
+
+#aideTextarea {
+
+
+height: 30px;
+z-index: 1000;
+
+
+}
+
+
+
+
+/* CSS mobile*/
+
+
+@media screen and (max-width: 1024px)
+{
+
+.navbar-brand
+{
+  	font-size: 14px ! important;
+}
+
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 5px 5px ! important;
+}
+
+#section1 {
+	margin-top: 0px;
+}
+
+#diaporama{
+
+	margin-top: 100px;
+}
+
+}
+
+@media screen and (max-width: 768px){
+
+	#sectionDemandeResa, #sectionTitreTarifs  {
+		margin-top: 0px !important;
+}
+
+}
+
+
+@media screen and (max-width: 425px){
+
+	#sectionTitreTarifs  {
+		margin-top: 100px !important;
+	}	
+
+	#diaporama{
+		margin-top: 100px;
+	}
+
+	#sectionTitreDispo {
+		margin-top: 0px;
+	}
+
+	#bloc4 {
+    	padding-top: 10px; 
+	}
+
+	#barreAdmin h4{
+	margin-top: 0px! important;
+	}
+
+}

@@ -1,0 +1,43 @@
+
+
+
+
+#auteur, #titre, #date {
+
+	background-color: #ffffff;
+	background: none;
+	width: 80%;
+}
+
+
+.tox-tinymce{
+
+	height: 375px !important;
+}
+
+.bloctiny {
+
+	width : 100%;
+	
+	margin-bottom: 15px;
+}
+
+.bloctiny p {
+
+text-align: left;
+display: inline-block;
+	
+}
+
+
+.bloctiny input {
+	
+}
+
+.bloctiny label {
+	width: 60%;
+}
+
+
+
+

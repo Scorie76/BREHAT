@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://www.guillaumemorillon.fr/brehat/</loc>
+  <lastmod>2019-07-10T07:22:55+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.guillaumemorillon.fr/brehat/index.php</loc>
+  <lastmod>2019-07-10T07:22:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.guillaumemorillon.fr/brehat/view/frontend/lamaison.php</loc>
+  <lastmod>2019-07-10T07:22:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.guillaumemorillon.fr/brehat/view/frontend/TarifsDispo.php</loc>
+  <lastmod>2019-07-10T07:22:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.guillaumemorillon.fr/brehat/view/frontend/InfosPratiques.php</loc>
+  <lastmod>2019-07-10T07:22:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.guillaumemorillon.fr/brehat/view/frontend/demandeInfo.php</loc>
+  <lastmod>2019-07-10T07:22:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.guillaumemorillon.fr/brehat/index.php?action=listAvis</loc>
+  <lastmod>2019-07-10T07:22:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.guillaumemorillon.fr/brehat/view/frontend/login.php</loc>
+  <lastmod>2019-07-10T07:22:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.guillaumemorillon.fr/brehat/view/frontend/diapoTerrasse.php</loc>
+  <lastmod>2019-07-10T07:22:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.guillaumemorillon.fr/brehat/view/frontend/diapoJardin.php</loc>
+  <lastmod>2019-07-10T07:22:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.guillaumemorillon.fr/brehat/view/frontend/diaposalon.php</loc>
+  <lastmod>2019-07-10T07:22:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.guillaumemorillon.fr/brehat/view/frontend/diapoCuisine.php</loc>
+  <lastmod>2019-07-10T07:22:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.guillaumemorillon.fr/brehat/view/frontend/diapoSDB.php</loc>
+  <lastmod>2019-07-10T07:22:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.guillaumemorillon.fr/brehat/view/frontend/diapoChambres.php</loc>
+  <lastmod>2019-07-10T07:22:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.guillaumemorillon.fr/brehat/view/frontend/conditions.php</loc>
+  <lastmod>2019-07-10T07:22:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.guillaumemorillon.fr/brehat/view/frontend/vedette.php</loc>
+  <lastmod>2019-07-10T07:22:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.guillaumemorillon.fr/brehat/view/frontend/carte.php</loc>
+  <lastmod>2019-07-10T07:22:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.guillaumemorillon.fr/brehat/view/frontend/meteos.php</loc>
+  <lastmod>2019-07-10T07:22:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.guillaumemorillon.fr/brehat/images/itineraire.pdf</loc>
+  <lastmod>2019-07-05T12:39:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>

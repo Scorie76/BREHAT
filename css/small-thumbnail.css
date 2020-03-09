@@ -1,0 +1,11 @@
+
+
+#main {
+    width: 160px;
+    height: 350px;
+    border: 1px solid #002554;
+    position: relative;
+    overflow: hidden;
+    background-color: #5787a5 ! important;
+}
+
